@@ -8,4 +8,4 @@ Reportes: Dentro de la carpeta encontrara los reportes de las ejecuciones realiz
 4. agregar el código para la carga y consumo de csv en performancetest.js
 5. Se crea el código para Generar el reporte en html results.html
 6. Plus se carga un reporte de análisis de la misma ejecución con manejo de IA results28062026.html
-
+7. En el archivo Ejercicio Performance_QA.docx se encuentra el análisis del resto de ejercicios de eprformance por favor
